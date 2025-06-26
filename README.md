@@ -1,4 +1,4 @@
-# fs-watcher
+# fs-watch
 
 📁 A lightweight file system watcher for logging directory changes in real-time.
 
